@@ -1,0 +1,1 @@
+IN ORDER TO REPRODUCE THE KAGGLE RESULTS JUST RUN THE .ipynb FILE. I HAVE ADDED POINTERS AT EACH STEP. MAKE SURE TO UPDATE THE imgaug library to version 0.3.0. Resnet50 should give the requisite results in about 25th epoch although I have set n_epochs to 40, but checkpoints are created at every epoch where there is an improvement in validation loss 
